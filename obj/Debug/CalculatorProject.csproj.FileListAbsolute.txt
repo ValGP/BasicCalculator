@@ -1,0 +1,16 @@
+C:\Users\vale-\source\repos\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\vale-\source\repos\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\vale-\source\repos\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\MainWindow.g.cs
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\App.g.cs
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject_MarkupCompile.cache
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject_MarkupCompile.lref
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\MainWindow.baml
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.g.resources
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\vale-\source\repos\CalculatorProject\obj\Debug\CalculatorProject.pdb
